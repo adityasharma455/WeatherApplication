@@ -27,15 +27,24 @@ It’s designed to demonstrate professional Android skills — perfect for your 
   * MVVM pattern
   * Koin for Dependency Injection
 
-📸 Screenshots
-![CheckGPS](screenshots/CheckGPS.jpg)
-![GPSPermission](screenshots/Permission.jpg)
-![Home](screenshots/HomeScreen.jpg)
-![WeatherByCityName](screenshots/WeatherByCityName.jpg)
+---
+
+## 📸 Screenshots
+
+| CheckGPS | GPS Permission | 
+|-----|------------|
+| ![CheckGPS](screenshots/CheckGPS.jpeg) | ![Categories](screenshots/Permission.jpeg) | 
+
+| Home Screen | Weather By Cit yName |
+|----------|--------------|
+| ![Home](screenshots/HomeScreen.jpeg) | ![WeatherByCityName](screenshots/WeatherByCityName.jpeg) |
+
+---
 
 ## 🎥 Demo Video
-[Watch Demo](demo/WeatherDemo.mp4)
+👉 [Watch Demo Video](demo/WeatherDemo.mp4)
 
+---
 
 🛠️ Tech Stack
   * Category ->	Technologies
@@ -46,6 +55,7 @@ It’s designed to demonstrate professional Android skills — perfect for your 
   * Networking ->	Retrofit, OkHttp
   * Location ->	FusedLocationProvider
   * Async / State ->	Coroutines, StateFlow
+
 
 
 💻 How It Works
@@ -61,6 +71,7 @@ It’s designed to demonstrate professional Android skills — perfect for your 
   * Weather data loads and shows on screen
 
 
+
 📦 How to Run
 
   1-Clone the repository
@@ -68,6 +79,7 @@ It’s designed to demonstrate professional Android skills — perfect for your 
   2-Open with Android Studio Arctic Fox or above
   3-Add your API key (OpenWeatherMap or Weather API) in local.properties or in your network module
   4-Run on an Android device or emulator
+
 
 
 📈 Why This Project
@@ -80,12 +92,16 @@ This project shows:
 
 This makes the app robust and easy to maintain — which is expected in real-world Android roles.
 
+
+
 📍 Future Enhancements
 
 ✔ Add weather forecast for upcoming days
 ✔ Offline caching (Room database)
 ✔ Dark/Light mode toggle
 ✔ Unit & UI Tests
+
+
 
 👤 Author
 
